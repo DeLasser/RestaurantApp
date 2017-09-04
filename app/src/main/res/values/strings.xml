@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">RestaurantApp</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">menu</string>
+    <string name="title_notifications">news</string>
+    <string name="title_meeting">Meeting</string>
+    <string name="title_reservation">Reservation</string>
+</resources>
